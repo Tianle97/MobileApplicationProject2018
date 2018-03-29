@@ -26,16 +26,27 @@ namespace MySoundsBoard
     {
         private ObservableCollection<Sound> Sounds;
 
+        private List<MenuItem> Menus;
+
         public MainPage()
         {
             this.InitializeComponent();
             Sounds = new ObservableCollection<Sound>();
             SoundManager.GetAllSounds(Sounds);
+
+            Menus = new List<MenuItem>();
+            Menus.Add(new MenuItem { IconFile = "Assets/Icon/animals.png", Category = SoundCategory.Animals });
+            Menus.Add(new MenuItem { IconFile = "Assets/Icon/cartoon.png", Category = SoundCategory.Cartoons });
+            Menus.Add(new MenuItem { IconFile = "Assets/Icon/people.png", Category = SoundCategory.Life });
+            Menus.Add(new MenuItem { IconFile = "Assets/Icon/warning.png", Category = SoundCategory.Warnings });
+
+            BackButton.Visibility = Visibility.Collapsed;
+
         }
 
         private void HamburgerButton_Click(object sender, RoutedEventArgs e)
         {
-
+            MySplitView.IsPaneOpen = !MySplitView.IsPaneOpen;
         }
 
         private void SearchAutoSuggestBox_TextChanged(AutoSuggestBox sender, AutoSuggestBoxTextChangedEventArgs args)
@@ -50,17 +61,28 @@ namespace MySoundsBoard
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
+            SoundManager.GetAllSounds(Sounds);
+            CategoryTextBlock.Text = "All Sounds";
+            MenuItem.SelectedItem = null;
+            BackButton.Visibility = Visibility.Collapsed;
 
         }
 
-        private void ListView_ItemClick(object sender, ItemClickEventArgs e)
+        private void MenuItemsListView_ItemClick(object sender, ItemClickEventArgs e)
         {
+            var menus = (MenuItem)e.ClickedItem;
+
+            //Filter on category
+            CategoryTextBlock.Text = menus.Category.ToString();
+            SoundManager.GetSoundsByCAtegory(Sounds, menus.Category);
+            BackButton.Visibility = Visibility.Visible;
 
         }
 
         private void SoundGridView_ItemClick(object sender, ItemClickEventArgs e)
         {
-
+            var sound = (Sound)e.ClickedItem;
+            MyMediaElement.Source = new Uri(this.BaseUri, sound.AudioFile);
         }
     }
 }

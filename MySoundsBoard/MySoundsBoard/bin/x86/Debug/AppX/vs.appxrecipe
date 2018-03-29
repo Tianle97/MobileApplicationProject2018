@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-29T14:07:55.464</Modified>
+      <Modified>2018-03-29T19:01:44.090</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.exe">
       <PackagePath>entrypoint\MySoundsBoard.exe</PackagePath>
-      <Modified>2018-03-29T14:07:52.983</Modified>
+      <Modified>2018-03-29T19:01:43.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyle\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -547,21 +547,21 @@
       <PackagePath>Assets\Audio\Warnings\Siren.wav</PackagePath>
       <Modified>2018-03-29T14:00:37.193</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\animals.png">
-      <PackagePath>Assets\Icon\animals.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.203</Modified>
+    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\people.png">
+      <PackagePath>Assets\Icon\people.png</PackagePath>
+      <Modified>2018-03-29T17:54:10.735</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\cartoon.png">
       <PackagePath>Assets\Icon\cartoon.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.209</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\people.png">
-      <PackagePath>Assets\Icon\people.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.215</Modified>
+      <Modified>2018-03-29T17:54:10.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\warning.png">
       <PackagePath>Assets\Icon\warning.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.247</Modified>
+      <Modified>2018-03-29T17:54:10.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\animals.png">
+      <PackagePath>Assets\Icon\animals.png</PackagePath>
+      <Modified>2018-03-29T17:54:10.750</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Chicken.png">
       <PackagePath>Assets\Image\Animals\Chicken.png</PackagePath>
@@ -703,7 +703,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.xr.xml">
       <PackagePath>MySoundsBoard.xr.xml</PackagePath>
-      <Modified>2018-03-29T14:07:52.273</Modified>
+      <Modified>2018-03-29T17:52:31.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -712,11 +712,11 @@
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-29T14:07:54.855</Modified>
+      <Modified>2018-03-29T18:49:54.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\MySoundsBoard.exe">
       <PackagePath>MySoundsBoard.exe</PackagePath>
-      <Modified>2018-03-29T14:07:55.453</Modified>
+      <Modified>2018-03-29T19:01:44.083</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -98,6 +98,7 @@
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Model\MenuItem.cs" />
     <Compile Include="Model\Sound.cs" />
     <Compile Include="Model\SoundManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -136,10 +137,10 @@
     <Content Include="Assets\Audio\Warnings\Air.wav" />
     <Content Include="Assets\Audio\Warnings\Ship.wav" />
     <Content Include="Assets\Audio\Warnings\Siren.wav" />
-    <Content Include="Assets\Icon\animals.png" />
-    <Content Include="Assets\Icon\cartoon.png" />
     <Content Include="Assets\Icon\people.png" />
+    <Content Include="Assets\Icon\cartoon.png" />
     <Content Include="Assets\Icon\warning.png" />
+    <Content Include="Assets\Icon\animals.png" />
     <Content Include="Assets\Image\Animals\Chicken.png" />
     <Content Include="Assets\Image\Animals\Cow.png" />
     <Content Include="Assets\Image\Animals\Dog.png" />

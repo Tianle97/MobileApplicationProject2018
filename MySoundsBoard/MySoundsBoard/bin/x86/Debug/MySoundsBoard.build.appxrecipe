@@ -409,17 +409,17 @@
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Siren.wav">
       <PackagePath>Assets\Audio\Warnings\Siren.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\animals.png">
-      <PackagePath>Assets\Icon\animals.png</PackagePath>
+    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\people.png">
+      <PackagePath>Assets\Icon\people.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\cartoon.png">
       <PackagePath>Assets\Icon\cartoon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\people.png">
-      <PackagePath>Assets\Icon\people.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\warning.png">
       <PackagePath>Assets\Icon\warning.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\animals.png">
+      <PackagePath>Assets\Icon\animals.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Chicken.png">
       <PackagePath>Assets\Image\Animals\Chicken.png</PackagePath>
