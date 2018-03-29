@@ -1,0 +1,1 @@
+C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\MySoundsBoard.csproj;x86
