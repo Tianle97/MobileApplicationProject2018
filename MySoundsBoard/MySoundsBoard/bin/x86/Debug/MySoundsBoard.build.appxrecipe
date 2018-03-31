@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>bccc4a65-5891-4e80-8205-e8d058fa9fa4</PackageIdentityName>
     <PackageIdentityPublisher>CN=kyle</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.exe">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.exe">
       <PackagePath>entrypoint\MySoundsBoard.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyle\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -370,173 +370,173 @@
     <AppxPackagedFile Include="C:\Users\kyle\.nuget\packages\System.Xml.XmlSerializer\4.0.11\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Chicken.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Chicken.wav">
       <PackagePath>Assets\Audio\Animals\Chicken.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Cow.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Cow.wav">
       <PackagePath>Assets\Audio\Animals\Cow.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Dog.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Dog.wav">
       <PackagePath>Assets\Audio\Animals\Dog.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Dolphin.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Dolphin.wav">
       <PackagePath>Assets\Audio\Animals\Dolphin.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Horse.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Horse.wav">
       <PackagePath>Assets\Audio\Animals\Horse.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Sheep.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Sheep.wav">
       <PackagePath>Assets\Audio\Animals\Sheep.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Wolf.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Animals\Wolf.wav">
       <PackagePath>Assets\Audio\Animals\Wolf.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Gun.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Gun.wav">
       <PackagePath>Assets\Audio\Cartoons\Gun.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Spring.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Spring.wav">
       <PackagePath>Assets\Audio\Cartoons\Spring.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Clock.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Clock.wav">
       <PackagePath>Assets\Audio\Life\Clock.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Air.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Air.wav">
       <PackagePath>Assets\Audio\Warnings\Air.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Ship.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Ship.wav">
       <PackagePath>Assets\Audio\Warnings\Ship.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Siren.wav">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Siren.wav">
       <PackagePath>Assets\Audio\Warnings\Siren.wav</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\people.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Icon\people.png">
       <PackagePath>Assets\Icon\people.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\cartoon.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Icon\cartoon.png">
       <PackagePath>Assets\Icon\cartoon.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\warning.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Icon\warning.png">
       <PackagePath>Assets\Icon\warning.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Icon\animals.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Icon\animals.png">
       <PackagePath>Assets\Icon\animals.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Chicken.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Chicken.png">
       <PackagePath>Assets\Image\Animals\Chicken.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Cow.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Cow.png">
       <PackagePath>Assets\Image\Animals\Cow.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Dog.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Dog.png">
       <PackagePath>Assets\Image\Animals\Dog.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Dolphin.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Dolphin.png">
       <PackagePath>Assets\Image\Animals\Dolphin.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Horse.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Horse.png">
       <PackagePath>Assets\Image\Animals\Horse.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Sheep.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Sheep.png">
       <PackagePath>Assets\Image\Animals\Sheep.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Wolf.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Animals\Wolf.png">
       <PackagePath>Assets\Image\Animals\Wolf.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Gun.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Gun.png">
       <PackagePath>Assets\Image\Cartoons\Gun.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Spring.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Spring.png">
       <PackagePath>Assets\Image\Cartoons\Spring.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Clock.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Clock.png">
       <PackagePath>Assets\Image\Life\Clock.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Warnings\Ship.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Warnings\Ship.png">
       <PackagePath>Assets\Image\Warnings\Ship.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Image\Warnings\Siren.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Warnings\Siren.png">
       <PackagePath>Assets\Image\Warnings\Siren.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\1240x1240.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\1240x1240.png">
       <PackagePath>Assets\PackageAppXManifest\1240x1240.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\1240x600.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\1240x600.png">
       <PackagePath>Assets\PackageAppXManifest\1240x600.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\24x24-large.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\24x24-large.png">
       <PackagePath>Assets\PackageAppXManifest\24x24-large.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\24x24.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\24x24.png">
       <PackagePath>Assets\PackageAppXManifest\24x24.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\300x300.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\300x300.png">
       <PackagePath>Assets\PackageAppXManifest\300x300.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\310x310.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\310x310.png">
       <PackagePath>Assets\PackageAppXManifest\310x310.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\50x50-large.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\50x50-large.png">
       <PackagePath>Assets\PackageAppXManifest\50x50-large.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\50x50.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\50x50.png">
       <PackagePath>Assets\PackageAppXManifest\50x50.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\620x300.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\620x300.png">
       <PackagePath>Assets\PackageAppXManifest\620x300.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\71x71-large.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\71x71-large.png">
       <PackagePath>Assets\PackageAppXManifest\71x71-large.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\71x71.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\71x71.png">
       <PackagePath>Assets\PackageAppXManifest\71x71.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\88x88-large.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\88x88-large.png">
       <PackagePath>Assets\PackageAppXManifest\88x88-large.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\88x88.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\PackageAppXManifest\88x88.png">
       <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.xr.xml">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.xr.xml">
       <PackagePath>MySoundsBoard.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Quella\MobileApp\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\MySoundsBoard.exe">
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\MySoundsBoard.exe">
       <PackagePath>MySoundsBoard.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -24336,11 +24336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Quella\\MobileApp\\MySoundsBoard\\MySoundsBoard\\MySoundsBoard.csproj",
+      "projectUniqueName": "C:\\Quella\\MobileApplicationProject2018\\MySoundsBoard\\MySoundsBoard\\MySoundsBoard.csproj",
       "projectName": "MySoundsBoard",
-      "projectPath": "C:\\Quella\\MobileApp\\MySoundsBoard\\MySoundsBoard\\MySoundsBoard.csproj",
+      "projectPath": "C:\\Quella\\MobileApplicationProject2018\\MySoundsBoard\\MySoundsBoard\\MySoundsBoard.csproj",
       "packagesPath": "C:\\Users\\kyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Quella\\MobileApp\\MySoundsBoard\\MySoundsBoard\\obj\\",
+      "outputPath": "C:\\Quella\\MobileApplicationProject2018\\MySoundsBoard\\MySoundsBoard\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
