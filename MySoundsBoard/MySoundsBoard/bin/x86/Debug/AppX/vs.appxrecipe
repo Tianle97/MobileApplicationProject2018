@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-31T00:12:14.663</Modified>
+      <Modified>2018-03-31T14:53:30.931</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.exe">
       <PackagePath>entrypoint\MySoundsBoard.exe</PackagePath>
-      <Modified>2018-03-31T00:12:14.273</Modified>
+      <Modified>2018-03-31T14:53:27.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyle\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -703,7 +703,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.xr.xml">
       <PackagePath>MySoundsBoard.xr.xml</PackagePath>
-      <Modified>2018-03-29T17:52:31.343</Modified>
+      <Modified>2018-03-31T14:51:32.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -712,11 +712,11 @@
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-31T00:11:29.812</Modified>
+      <Modified>2018-03-31T14:53:30.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\MySoundsBoard.exe">
       <PackagePath>MySoundsBoard.exe</PackagePath>
-      <Modified>2018-03-31T00:12:14.657</Modified>
+      <Modified>2018-03-31T14:53:30.913</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

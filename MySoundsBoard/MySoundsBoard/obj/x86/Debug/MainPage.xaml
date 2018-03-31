@@ -85,6 +85,9 @@
                               Name="SoundGridView"
                               SelectionMode="None"
                               IsItemClickEnabled="True"
+                              AllowDrop="True"
+                                                       
+                                                               
                                                            
                                                                   >
                         <GridView.ItemTemplate>

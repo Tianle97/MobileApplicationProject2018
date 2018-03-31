@@ -85,6 +85,9 @@
                               Name="SoundGridView"
                               SelectionMode="None"
                               IsItemClickEnabled="True"
+                              AllowDrop="True"
+                              Drop="SoundGridView_Drop"
+                              DragOver="SoundGridView_DragOver"
                               ItemsSource="{x:Bind Sounds}"
                               ItemClick="SoundGridView_ItemClick" >
                         <GridView.ItemTemplate>
