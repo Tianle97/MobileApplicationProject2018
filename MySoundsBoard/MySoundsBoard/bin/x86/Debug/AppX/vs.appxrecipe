@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-31T14:53:30.931</Modified>
+      <Modified>2018-04-06T14:56:23.437</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.exe">
       <PackagePath>entrypoint\MySoundsBoard.exe</PackagePath>
-      <Modified>2018-03-31T14:53:27.584</Modified>
+      <Modified>2018-04-06T14:56:22.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyle\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -525,15 +525,67 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Gun.wav">
       <PackagePath>Assets\Audio\Cartoons\Gun.wav</PackagePath>
-      <Modified>2018-03-29T14:00:37.135</Modified>
+      <Modified>2018-03-31T16:45:25.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Laser.wav">
+      <PackagePath>Assets\Audio\Cartoons\Laser.wav</PackagePath>
+      <Modified>2018-03-31T16:44:46.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Morse.wav">
+      <PackagePath>Assets\Audio\Cartoons\Morse.wav</PackagePath>
+      <Modified>2018-03-31T16:45:26.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Motorcycle.wav">
+      <PackagePath>Assets\Audio\Cartoons\Motorcycle.wav</PackagePath>
+      <Modified>2018-03-31T16:45:26.618</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Ocean.wav">
+      <PackagePath>Assets\Audio\Cartoons\Ocean.wav</PackagePath>
+      <Modified>2018-03-31T16:44:46.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Spring.wav">
       <PackagePath>Assets\Audio\Cartoons\Spring.wav</PackagePath>
-      <Modified>2018-03-29T14:00:37.145</Modified>
+      <Modified>2018-03-31T16:45:27.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Telephone.wav">
+      <PackagePath>Assets\Audio\Cartoons\Telephone.wav</PackagePath>
+      <Modified>2018-03-31T16:44:46.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\UFO.wav">
+      <PackagePath>Assets\Audio\Cartoons\UFO.wav</PackagePath>
+      <Modified>2018-03-31T16:45:27.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Cartoons\Windy.wav">
+      <PackagePath>Assets\Audio\Cartoons\Windy.wav</PackagePath>
+      <Modified>2018-03-31T16:44:46.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Baby.wav">
+      <PackagePath>Assets\Audio\Life\Baby.wav</PackagePath>
+      <Modified>2018-03-31T16:51:45.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Car.wav">
+      <PackagePath>Assets\Audio\Life\Car.wav</PackagePath>
+      <Modified>2018-03-31T16:45:40.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Clock.wav">
       <PackagePath>Assets\Audio\Life\Clock.wav</PackagePath>
-      <Modified>2018-03-29T14:00:37.159</Modified>
+      <Modified>2018-03-31T16:45:41.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Laser.wav">
+      <PackagePath>Assets\Audio\Life\Laser.wav</PackagePath>
+      <Modified>2018-03-31T16:45:42.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Ocean.wav">
+      <PackagePath>Assets\Audio\Life\Ocean.wav</PackagePath>
+      <Modified>2018-03-31T16:45:42.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Telephone.wav">
+      <PackagePath>Assets\Audio\Life\Telephone.wav</PackagePath>
+      <Modified>2018-03-31T16:45:42.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Life\Windy.wav">
+      <PackagePath>Assets\Audio\Life\Windy.wav</PackagePath>
+      <Modified>2018-03-31T16:45:42.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Warnings\Air.wav">
       <PackagePath>Assets\Audio\Warnings\Air.wav</PackagePath>
@@ -593,15 +645,51 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Gun.png">
       <PackagePath>Assets\Image\Cartoons\Gun.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.315</Modified>
+      <Modified>2018-03-31T16:40:10.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Motorcycle.png">
+      <PackagePath>Assets\Image\Cartoons\Motorcycle.png</PackagePath>
+      <Modified>2018-03-31T16:40:07.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Spring.png">
       <PackagePath>Assets\Image\Cartoons\Spring.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.319</Modified>
+      <Modified>2018-03-31T16:40:09.104</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\UFO.png">
+      <PackagePath>Assets\Image\Cartoons\UFO.png</PackagePath>
+      <Modified>2018-03-31T16:40:09.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Baby.png">
+      <PackagePath>Assets\Image\Life\Baby.png</PackagePath>
+      <Modified>2018-03-31T16:40:56.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Car.png">
+      <PackagePath>Assets\Image\Life\Car.png</PackagePath>
+      <Modified>2018-03-31T16:46:03.115</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Clock.png">
       <PackagePath>Assets\Image\Life\Clock.png</PackagePath>
-      <Modified>2018-03-29T14:00:37.345</Modified>
+      <Modified>2018-03-31T16:40:56.600</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Laser.png">
+      <PackagePath>Assets\Image\Life\Laser.png</PackagePath>
+      <Modified>2018-03-31T16:40:56.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Audio\Morse.png">
+      <PackagePath>Assets\Audio\Morse.png</PackagePath>
+      <Modified>2018-03-31T16:40:56.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Ocean.png">
+      <PackagePath>Assets\Image\Life\Ocean.png</PackagePath>
+      <Modified>2018-03-31T16:40:56.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Telephone.png">
+      <PackagePath>Assets\Image\Life\Telephone.png</PackagePath>
+      <Modified>2018-03-31T16:40:56.657</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Life\Windy.png">
+      <PackagePath>Assets\Image\Life\Windy.png</PackagePath>
+      <Modified>2018-03-31T16:40:56.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Warnings\Ship.png">
       <PackagePath>Assets\Image\Warnings\Ship.png</PackagePath>
@@ -663,6 +751,10 @@
       <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
       <Modified>2018-03-29T14:00:37.457</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Image\Cartoons\Morse.png">
+      <PackagePath>Assets\Image\Cartoons\Morse.png</PackagePath>
+      <Modified>2018-03-31T16:41:41.571</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-09-10T13:22:00.465</Modified>
@@ -712,11 +804,11 @@
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-31T14:53:30.221</Modified>
+      <Modified>2018-03-31T16:52:53.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\MySoundsBoard.exe">
       <PackagePath>MySoundsBoard.exe</PackagePath>
-      <Modified>2018-03-31T14:53:30.913</Modified>
+      <Modified>2018-04-06T14:56:23.425</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

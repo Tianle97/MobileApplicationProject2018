@@ -29,8 +29,10 @@ namespace MySoundsBoard
     {
         private ObservableCollection<Sound> Sounds;
 
-        private List<MenuItem> Menus;
+        private List<String> Suggestions;
 
+        private List<MenuItem> Menus;
+       
         public MainPage()
         {
             this.InitializeComponent();
@@ -54,12 +56,20 @@ namespace MySoundsBoard
 
         private void SearchAutoSuggestBox_TextChanged(AutoSuggestBox sender, AutoSuggestBoxTextChangedEventArgs args)
         {
+            //Click `SearchAutoSuggestBox` will show the all of sound's name
+            SoundManager.GetAllSounds(Sounds);
 
+            //if enter the first letter it will show a list which startwith the first letter
+            Suggestions = Sounds.Where(p => p.Name.StartsWith(sender.Text)).Select(p => p.Name).ToList();
+            SearchAutoSuggestBox.ItemsSource = Suggestions;
         }
 
         private void SearchAutoSuggestBox_QuerySubmitted(AutoSuggestBox sender, AutoSuggestBoxQuerySubmittedEventArgs args)
         {
-
+            SoundManager.GetSuundsByName(Sounds, sender.Text);
+            CategoryTextBlock.Text = sender.Text;
+            MenuItem.SelectedItem = null;
+            BackButton.Visibility = Visibility.Visible;
         }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
@@ -68,7 +78,6 @@ namespace MySoundsBoard
             CategoryTextBlock.Text = "All Sounds";
             MenuItem.SelectedItem = null;
             BackButton.Visibility = Visibility.Collapsed;
-
         }
 
         private void MenuItemsListView_ItemClick(object sender, ItemClickEventArgs e)

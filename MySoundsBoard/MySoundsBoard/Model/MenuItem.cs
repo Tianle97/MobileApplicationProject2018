@@ -10,6 +10,5 @@ namespace MySoundsBoard.Model
     {
         public string IconFile { get; set; }
         public SoundCategory Category { get; set; }
-
     }
 }
