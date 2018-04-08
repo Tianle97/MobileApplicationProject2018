@@ -4,9 +4,16 @@
 #### Student ID: *G00353418*
 
 ## *Introduction*
-This is my 3rd year mobile application project. <br/>
-It is a SoundBoard which can search some sound to listening. <br/>
-There are some sounds that children can distinguish it.
+This is my 3rd year mobile application UWP project. <br/>
+* UWP explain: <br/>
+ Windows 10 introduces the Universal Windows Platform (UWP), which provides a common app platform on every device that runs Windows 10. The UWP provides a guaranteed core API across devices. New adaptive controls and layout panels help you to tailor your UI across a broad range of device screen resolutions and sizes, and respond to multiple kinds of device input. A unified app store makes your app available on Windows 10 devices such as PC, tablet, Xbox, HoloLens, Surface Hub, and Internet of Things (IoT) devices. <br/>
+ UWP is flexible. You can use languages such as C#, C++, Javascript, and VB. Have a C++ desktop app that you want to modernize with UWP features and sell in the Microsoft store? That's okay, too.
+* Project brief introduction <br/>
+ It is a SoundBoard which can search some sound to listening. <br/>
+There are some sounds that children can distinguish it. As well as that can search some music which in the MySoundsBoard musics.
+ And also can play musics.If you download it on your computer desktop. Just run it and drag it to the MySoundsBoard.
+ Finaly it will play music which you drag the music.
+ Note the music document type only is mp3 or wav document.
 
 
 ## *How to Run*
@@ -16,8 +23,20 @@ There are some sounds that children can distinguish it.
  * 4 Click 'Local Machine' Than yuo can run it
  
 
+## *Techniques*
+
 
 ## *ScreenShot*
+* Main Sounds Page
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/MainPage.png)
+* Animal Sounds Page
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Animals.png)
+* Cartoon Sounds Page
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Cartoon.png)
+* Life Sounds Page
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Life.png)
+* Warning Sounds Page
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Warning.png)
 
 
 
