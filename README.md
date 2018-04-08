@@ -24,6 +24,12 @@ There are some sounds that children can distinguish it. As well as that can sear
  
 
 ## *Techniques*
+* sensers
+  * Sound, ckick the picture which you want to listen. It will play
+  
+  
+  * Hamburg Menu, <br/> 
+    The Hamburger Menu Control provides an easy-to-use, side-bar menu which users can show or hide by using a Hamburger button. By tapping the icon, it opens up a side menu with a selection of options or additional pages.
 
 
 ## *ScreenShot*
@@ -45,3 +51,4 @@ There are some sounds that children can distinguish it. As well as that can sear
 Better to study data bind and some c3 skills:https://msdn.microsoft.com/en-us/library/gg680266(v=pandp.11).aspx <br/>
 Get Icons and Images: https://www.flaticon.com/   <br/>
 Get sounds:   http://www.wavsource.com/animals/animals.htm <br/>
+Better to understand Hamburger Menu: https://docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/controls/hamburgermenu <br/>
