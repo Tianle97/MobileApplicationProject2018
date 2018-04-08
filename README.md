@@ -33,8 +33,8 @@ There are some sounds that children can distinguish it. As well as that can sear
 
 
 ## *ScreenShot*
-* Main Sounds Page
-![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Mainpage.png)
+* Main Sounds Page(Drag a music document to the MySpundsBoard)
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/MainPage.png)
 
 
 
