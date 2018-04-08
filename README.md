@@ -34,15 +34,7 @@ There are some sounds that children can distinguish it. As well as that can sear
 
 ## *ScreenShot*
 * Main Sounds Page
-![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/MainPage.png)
-* Animal Sounds Page
-![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Animals.png)
-* Cartoon Sounds Page
-![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Cartoon.png)
-* Life Sounds Page
-![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Life.png)
-* Warning Sounds Page
-![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Warning.png)
+![alt](https://github.com/Tianle97/MobileApplicationProject2018/blob/master/ScreenShot/Mainpage.png)
 
 
 
