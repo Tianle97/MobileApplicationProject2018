@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MySoundsBoard.Model
 {
+    //Bean ClAss
     public class Sound
     {
         public string Name { get; set; }

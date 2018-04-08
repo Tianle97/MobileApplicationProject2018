@@ -1,0 +1,11 @@
+/out:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\in"
+/ref:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\in\\"
+/ref:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\tools\x86\ilc\csc"

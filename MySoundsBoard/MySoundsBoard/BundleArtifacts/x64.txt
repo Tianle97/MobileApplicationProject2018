@@ -1,0 +1,2 @@
+MainPackage=C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x64\Release\MySoundsBoard_1.1.0.0_x64.appx
+SymbolPackage=C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\AppPackages\MySoundsBoard_1.1.0.0_Test\MySoundsBoard_1.1.0.0_x64.appxsym

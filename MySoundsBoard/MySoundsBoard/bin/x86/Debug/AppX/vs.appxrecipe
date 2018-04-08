@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>bccc4a65-5891-4e80-8205-e8d058fa9fa4</PackageIdentityName>
-    <PackageIdentityPublisher>CN=kyle</PackageIdentityPublisher>
+    <PackageIdentityName>726fface-40b6-4765-a7ea-65dd57870342</PackageIdentityName>
+    <PackageIdentityPublisher>CN=253C46C1-F8FA-4706-A40B-0A193C73B76D</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
@@ -19,25 +19,25 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>7E511DD683D55CC46E17CE69DAF85459A74AFDD584A7A938DAD89B00DF78E000</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>bccc4a65-5891-4e80-8205-e8d058fa9fa4_1.0.0.0_x86__g9tnk1mnk567p</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>bccc4a65-5891-4e80-8205-e8d058fa9fa4_g9tnk1mnk567p!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>bccc4a65-5891-4e80-8205-e8d058fa9fa4</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=kyle</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>D4C0C2DD78AFD1F3CB0A02FD8E81B273A1D30E0253B68B8CD81CA2E3628AB392</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>33679TianleShu.MySoundsBoard_1.1.0.0_x86__b8ktchwqjy8ba</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>33679TianleShu.MySoundsBoard_b8ktchwqjy8ba!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>33679TianleShu.MySoundsBoard</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=253C46C1-F8FA-4706-A40B-0A193C73B76D</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-06T14:56:23.437</Modified>
+      <Modified>2018-04-08T10:12:30.681</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\MySoundsBoard.exe">
       <PackagePath>entrypoint\MySoundsBoard.exe</PackagePath>
-      <Modified>2018-04-06T14:56:22.470</Modified>
+      <Modified>2018-04-08T10:12:27.975</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyle\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -757,37 +757,37 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T20:39:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T20:40:31.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T21:14:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T20:41:39.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T20:42:24.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T20:43:01.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-09-10T13:22:00.465</Modified>
+      <Modified>2018-04-07T20:43:50.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -804,11 +804,11 @@
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-31T16:52:53.587</Modified>
+      <Modified>2018-04-08T10:12:30.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\x86\Debug\Core\MySoundsBoard.exe">
       <PackagePath>MySoundsBoard.exe</PackagePath>
-      <Modified>2018-04-06T14:56:23.425</Modified>
+      <Modified>2018-04-08T10:12:30.669</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

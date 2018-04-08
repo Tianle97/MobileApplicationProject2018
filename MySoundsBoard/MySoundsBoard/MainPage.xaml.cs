@@ -133,5 +133,4 @@ namespace MySoundsBoard
             e.DragUIOverride.IsGlyphVisible = true;
         }
     }
-}
-
+}+

@@ -12,20 +12,25 @@ namespace MySoundsBoard.Model
         //Let that collectionso bjection model great and
         public static void GetAllSounds(ObservableCollection<Sound> sounds)
         {
+            //create a type of var called allSounds for get the souds list.
             var allSounds = getSounds();
+            //stop play the sound 
             sounds.Clear();
             allSounds.ForEach(p => sounds.Add(p));
-
         }
 
         public static void GetSoundsByCAtegory(ObservableCollection<Sound> sounds, SoundCategory soundCategory)
         {
+            //create a type of var called allSounds for get the souds list.
             var allSounds = getSounds();
+            //create a type of var called filteredSounds for get all souds list.
+            //And this line means find where soundfile anme equal to 
             var filteredSounds = allSounds.Where(p => p.Category == soundCategory).ToList();
             sounds.Clear();
             filteredSounds.ForEach(p => sounds.Add(p));
         }
 
+        //This method called GetSuundsByName that means 
         public static void GetSuundsByName(ObservableCollection<Sound> sounds, string name)
         {
             var allSounds = getSounds();
@@ -34,10 +39,13 @@ namespace MySoundsBoard.Model
             filteredSounds.ForEach(p => sounds.Add(p));
         }
 
+
+        //This method called getSounds means get all sounds from the file.
+        //And in this method , there is a type of var called sounds that is a list for get all soundsfile.
         private static List<Sound> getSounds()
         {
             var sounds = new List<Sound>();
-
+             
             sounds.Add(new Sound("Cow", SoundCategory.Animals));
             sounds.Add(new Sound("Chicken", SoundCategory.Animals));
             sounds.Add(new Sound("Dog", SoundCategory.Animals));

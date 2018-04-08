@@ -8,8 +8,8 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>bccc4a65-5891-4e80-8205-e8d058fa9fa4</PackageIdentityName>
-    <PackageIdentityPublisher>CN=kyle</PackageIdentityPublisher>
+    <PackageIdentityName>726fface-40b6-4765-a7ea-65dd57870342</PackageIdentityName>
+    <PackageIdentityPublisher>CN=253C46C1-F8FA-4706-A40B-0A193C73B76D</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>

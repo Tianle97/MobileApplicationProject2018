@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KYLEFENGEA84</Machine>
+    <WindowsUser>kyle</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>726fface-40b6-4765-a7ea-65dd57870342</PackageIdentityName>
+    <PackageIdentityPublisher>CN=253C46C1-F8FA-4706-A40B-0A193C73B76D</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Chicken.wav">
+      <PackagePath>Assets\Audio\Animals\Chicken.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Cow.wav">
+      <PackagePath>Assets\Audio\Animals\Cow.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Dog.wav">
+      <PackagePath>Assets\Audio\Animals\Dog.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Dolphin.wav">
+      <PackagePath>Assets\Audio\Animals\Dolphin.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Horse.wav">
+      <PackagePath>Assets\Audio\Animals\Horse.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Sheep.wav">
+      <PackagePath>Assets\Audio\Animals\Sheep.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Animals\Wolf.wav">
+      <PackagePath>Assets\Audio\Animals\Wolf.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Gun.wav">
+      <PackagePath>Assets\Audio\Cartoons\Gun.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Laser.wav">
+      <PackagePath>Assets\Audio\Cartoons\Laser.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Morse.wav">
+      <PackagePath>Assets\Audio\Cartoons\Morse.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Motorcycle.wav">
+      <PackagePath>Assets\Audio\Cartoons\Motorcycle.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Ocean.wav">
+      <PackagePath>Assets\Audio\Cartoons\Ocean.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Spring.wav">
+      <PackagePath>Assets\Audio\Cartoons\Spring.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Telephone.wav">
+      <PackagePath>Assets\Audio\Cartoons\Telephone.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\UFO.wav">
+      <PackagePath>Assets\Audio\Cartoons\UFO.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Cartoons\Windy.wav">
+      <PackagePath>Assets\Audio\Cartoons\Windy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Baby.wav">
+      <PackagePath>Assets\Audio\Life\Baby.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Car.wav">
+      <PackagePath>Assets\Audio\Life\Car.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Clock.wav">
+      <PackagePath>Assets\Audio\Life\Clock.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Laser.wav">
+      <PackagePath>Assets\Audio\Life\Laser.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Ocean.wav">
+      <PackagePath>Assets\Audio\Life\Ocean.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Telephone.wav">
+      <PackagePath>Assets\Audio\Life\Telephone.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Life\Windy.wav">
+      <PackagePath>Assets\Audio\Life\Windy.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Morse.png">
+      <PackagePath>Assets\Audio\Morse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Warnings\Air.wav">
+      <PackagePath>Assets\Audio\Warnings\Air.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Warnings\Ship.wav">
+      <PackagePath>Assets\Audio\Warnings\Ship.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Audio\Warnings\Siren.wav">
+      <PackagePath>Assets\Audio\Warnings\Siren.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Icon\animals.png">
+      <PackagePath>Assets\Icon\animals.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Icon\cartoon.png">
+      <PackagePath>Assets\Icon\cartoon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Icon\people.png">
+      <PackagePath>Assets\Icon\people.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Icon\warning.png">
+      <PackagePath>Assets\Icon\warning.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Chicken.png">
+      <PackagePath>Assets\Image\Animals\Chicken.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Cow.png">
+      <PackagePath>Assets\Image\Animals\Cow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Dog.png">
+      <PackagePath>Assets\Image\Animals\Dog.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Dolphin.png">
+      <PackagePath>Assets\Image\Animals\Dolphin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Horse.png">
+      <PackagePath>Assets\Image\Animals\Horse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Sheep.png">
+      <PackagePath>Assets\Image\Animals\Sheep.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Animals\Wolf.png">
+      <PackagePath>Assets\Image\Animals\Wolf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Cartoons\Gun.png">
+      <PackagePath>Assets\Image\Cartoons\Gun.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Cartoons\Morse.png">
+      <PackagePath>Assets\Image\Cartoons\Morse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Cartoons\Motorcycle.png">
+      <PackagePath>Assets\Image\Cartoons\Motorcycle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Cartoons\Spring.png">
+      <PackagePath>Assets\Image\Cartoons\Spring.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Cartoons\UFO.png">
+      <PackagePath>Assets\Image\Cartoons\UFO.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Baby.png">
+      <PackagePath>Assets\Image\Life\Baby.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Car.png">
+      <PackagePath>Assets\Image\Life\Car.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Clock.png">
+      <PackagePath>Assets\Image\Life\Clock.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Laser.png">
+      <PackagePath>Assets\Image\Life\Laser.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Ocean.png">
+      <PackagePath>Assets\Image\Life\Ocean.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Telephone.png">
+      <PackagePath>Assets\Image\Life\Telephone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Life\Windy.png">
+      <PackagePath>Assets\Image\Life\Windy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Warnings\Ship.png">
+      <PackagePath>Assets\Image\Warnings\Ship.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Image\Warnings\Siren.png">
+      <PackagePath>Assets\Image\Warnings\Siren.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\1240x1240.png">
+      <PackagePath>Assets\PackageAppXManifest\1240x1240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\1240x600.png">
+      <PackagePath>Assets\PackageAppXManifest\1240x600.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\24x24-large.png">
+      <PackagePath>Assets\PackageAppXManifest\24x24-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\24x24.png">
+      <PackagePath>Assets\PackageAppXManifest\24x24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\300x300.png">
+      <PackagePath>Assets\PackageAppXManifest\300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\310x310.png">
+      <PackagePath>Assets\PackageAppXManifest\310x310.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\50x50-large.png">
+      <PackagePath>Assets\PackageAppXManifest\50x50-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\50x50.png">
+      <PackagePath>Assets\PackageAppXManifest\50x50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\620x300.png">
+      <PackagePath>Assets\PackageAppXManifest\620x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\71x71-large.png">
+      <PackagePath>Assets\PackageAppXManifest\71x71-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\71x71.png">
+      <PackagePath>Assets\PackageAppXManifest\71x71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\88x88-large.png">
+      <PackagePath>Assets\PackageAppXManifest\88x88-large.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\PackageAppXManifest\88x88.png">
+      <PackagePath>Assets\PackageAppXManifest\88x88.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\MySoundsBoard.dll">
+      <PackagePath>MySoundsBoard.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\MySoundsBoard.exe">
+      <PackagePath>MySoundsBoard.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\MySoundsBoard.pdb">
+      <PackagePath>MySoundsBoard.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Quella\MobileApplicationProject2018\MySoundsBoard\MySoundsBoard\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\kyle\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\kyle\.nuget\packages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\kyle\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\kyle\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\kyle\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\kyle\.nuget\packages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\kyle\.nuget\packages\microsoft.net.native.compiler\1.7.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.24123.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.24123.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

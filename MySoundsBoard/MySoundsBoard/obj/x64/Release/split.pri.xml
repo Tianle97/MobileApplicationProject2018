@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="33679TianleShu.MySoundsBoard" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MySoundsBoard.xr.xml" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/MySoundsBoard.xr.xml">
+				<Candidate type="Path">
+					<Value>MySoundsBoard.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Audio">
+					<NamedResource name="Morse.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Morse.png">
+						<Candidate type="Path">
+							<Value>Assets\Audio\Morse.png</Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="Animals">
+						<NamedResource name="Chicken.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Chicken.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Chicken.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cow.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Cow.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Cow.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Dog.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Dog.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Dog.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Dolphin.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Dolphin.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Dolphin.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Horse.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Horse.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Horse.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sheep.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Sheep.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Sheep.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Wolf.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Animals/Wolf.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Animals\Wolf.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Cartoons">
+						<NamedResource name="Gun.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Gun.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Gun.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Laser.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Laser.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Laser.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Morse.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Morse.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Morse.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Motorcycle.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Motorcycle.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Motorcycle.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Ocean.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Ocean.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Ocean.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Spring.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Spring.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Spring.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Telephone.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Telephone.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Telephone.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="UFO.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/UFO.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\UFO.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Windy.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Cartoons/Windy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Cartoons\Windy.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Life">
+						<NamedResource name="Baby.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Baby.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Baby.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Car.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Car.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Car.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Clock.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Clock.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Clock.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Laser.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Laser.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Laser.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Ocean.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Ocean.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Ocean.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Telephone.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Telephone.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Telephone.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Windy.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Life/Windy.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Life\Windy.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Warnings">
+						<NamedResource name="Air.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Warnings/Air.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Warnings\Air.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Ship.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Warnings/Ship.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Warnings\Ship.wav</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Siren.wav" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Audio/Warnings/Siren.wav">
+							<Candidate type="Path">
+								<Value>Assets\Audio\Warnings\Siren.wav</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Icon">
+					<NamedResource name="animals.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Icon/animals.png">
+						<Candidate type="Path">
+							<Value>Assets\Icon\animals.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="cartoon.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Icon/cartoon.png">
+						<Candidate type="Path">
+							<Value>Assets\Icon\cartoon.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="people.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Icon/people.png">
+						<Candidate type="Path">
+							<Value>Assets\Icon\people.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="warning.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Icon/warning.png">
+						<Candidate type="Path">
+							<Value>Assets\Icon\warning.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Image">
+					<ResourceMapSubtree name="Animals">
+						<NamedResource name="Chicken.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Chicken.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Chicken.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Cow.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Cow.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Cow.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Dog.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Dog.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Dog.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Dolphin.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Dolphin.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Dolphin.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Horse.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Horse.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Horse.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Sheep.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Sheep.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Sheep.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Wolf.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Animals/Wolf.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Animals\Wolf.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Cartoons">
+						<NamedResource name="Gun.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Cartoons/Gun.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Cartoons\Gun.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Morse.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Cartoons/Morse.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Cartoons\Morse.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Motorcycle.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Cartoons/Motorcycle.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Cartoons\Motorcycle.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Spring.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Cartoons/Spring.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Cartoons\Spring.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="UFO.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Cartoons/UFO.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Cartoons\UFO.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Life">
+						<NamedResource name="Baby.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Baby.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Baby.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Car.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Car.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Car.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Clock.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Clock.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Clock.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Laser.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Laser.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Laser.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Ocean.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Ocean.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Ocean.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Telephone.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Telephone.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Telephone.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Windy.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Life/Windy.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Life\Windy.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="Warnings">
+						<NamedResource name="Ship.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Warnings/Ship.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Warnings\Ship.png</Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Siren.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/Image/Warnings/Siren.png">
+							<Candidate type="Path">
+								<Value>Assets\Image\Warnings\Siren.png</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="PackageAppXManifest">
+					<NamedResource name="1240x1240.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/1240x1240.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\1240x1240.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="1240x600.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/1240x600.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\1240x600.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="24x24-large.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/24x24-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\24x24-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="24x24.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/24x24.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\24x24.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="300x300.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/300x300.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\300x300.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="310x310.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/310x310.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\310x310.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="50x50-large.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/50x50-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\50x50-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="50x50.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/50x50.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\50x50.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="620x300.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/620x300.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\620x300.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="71x71-large.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/71x71-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\71x71-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="71x71.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/71x71.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\71x71.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="88x88-large.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/88x88-large.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\88x88-large.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="88x88.png" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Assets/PackageAppXManifest/88x88.png">
+						<Candidate type="Path">
+							<Value>Assets\PackageAppXManifest\88x88.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://33679TianleShu.MySoundsBoard/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
